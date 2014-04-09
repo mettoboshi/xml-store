@@ -2,7 +2,7 @@
 <cc:System xmlns:cc="http://cloudconductor.org/namespaces/cc">
   <cc:Name>1-segment 3-layer model</cc:Name>
   <cc:Description>WEB/AP/DB 3-layer model</cc:Description>
-  <cc:Author>TIS Inc.</cc:Author>
+  <cc:Author>mettoboshi</cc:Author>
   <cc:Date>2013-12-27</cc:Date>
   <cc:License>Apache License 2.0</cc:License>
   <cc:Infrastructures>
